@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aibioyaef.apphands.com/sitemap.xml
